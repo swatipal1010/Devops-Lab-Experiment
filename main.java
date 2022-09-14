@@ -72,8 +72,9 @@ class Main
             }
         }
 
-        System.out.println("Prime XOR = " + primeXOR);
+        System.out.print("Prime XOR = " + primeXOR);
         System.out.println("Composite XOR = " + nonPrimeXor);
+        System.out.println("Values have been printed");
     }
     public static void main(String[] args)
     {
