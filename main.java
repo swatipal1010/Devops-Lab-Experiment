@@ -84,3 +84,6 @@ class Main
         kMinXOR(arr, n, k);
     }
 }
+
+pjewidjoewdnew
+
